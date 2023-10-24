@@ -1,16 +1,10 @@
-# dope_animations
+# Lottie Animation Example
 
-A new Flutter project.
+Flutter app using Lottie package and .json file from LottieFiles.com
 
-## Getting Started
+## Screenshot
+![lottie](https://github.com/merihcavdar/dope_animations/assets/84540989/da178c2e-20e3-4250-b78a-07e68fe5fea9)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Lottie package
+- AnimationController
